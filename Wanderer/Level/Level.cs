@@ -41,7 +41,7 @@ namespace Level
  			
  			for (int x = 0; x < 80; x++) 
  			{
- 				pointList.Add( new Point( x, (int)perlin2d.Noise(1f,80f) ) );
+ 				pointList.Add( new Point( x, (int)perlin2d.Noise(6f,20f) ) );
  				
  			}
  			
@@ -166,7 +166,8 @@ namespace Level
 
 	    private float[] GetPseudoRandomGradientVector(int x, int y)
 	    {	    	
-	        int v = (int)(((x * 1836311903) ^ (y * 2971215073) + 4807526976) & 1023);
+//	        int v = (int)(((x * 1836311903) ^ (y * 2971215073) + 4807526976) & 1023);
+	        int v = (int)(((x * 18363) ^ (y * 29712) + 4807526976) & 1023);
 	        v = permutationTable[v]&3;
 	
 	        switch (v)
