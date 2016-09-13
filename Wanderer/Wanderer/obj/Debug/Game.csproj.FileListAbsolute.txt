@@ -1,0 +1,6 @@
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\obj\Debug\Game.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\obj\Debug\Game.pdb

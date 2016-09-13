@@ -1,0 +1,12 @@
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\obj\Debug\Wanderer.csprojResolveAssemblyReference.cache
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\bin\Debug\Wanderer.exe.config
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\bin\Debug\Wanderer.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\bin\Debug\Wanderer.pdb
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\obj\Debug\Wanderer.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Game\Game\obj\Debug\Wanderer.pdb
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Wanderer\bin\Debug\Wanderer.exe.config
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Wanderer\bin\Debug\Wanderer.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Wanderer\bin\Debug\Wanderer.pdb
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Wanderer\obj\Debug\Wanderer.csprojResolveAssemblyReference.cache
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Wanderer\obj\Debug\Wanderer.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Wanderer\obj\Debug\Wanderer.pdb
