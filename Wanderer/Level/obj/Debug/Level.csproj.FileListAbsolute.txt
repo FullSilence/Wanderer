@@ -1,0 +1,6 @@
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Level\obj\Debug\Level.csprojResolveAssemblyReference.cache
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Level\bin\Debug\Level.exe.config
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Level\bin\Debug\Level.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Level\bin\Debug\Level.pdb
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Level\obj\Debug\Level.exe
+C:\Users\Khromov\Documents\SharpDevelop Projects\Wanderer\Level\obj\Debug\Level.pdb

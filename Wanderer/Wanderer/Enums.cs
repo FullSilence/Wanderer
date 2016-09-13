@@ -11,4 +11,14 @@
 		Up,
 		Down
 	}
+	
+	/// <summary>
+	/// Тип блока
+	/// </summary>
+	public enum TypeBlock
+	{
+		Dirt,
+		Grass,
+		Stone
+	}	
 }
